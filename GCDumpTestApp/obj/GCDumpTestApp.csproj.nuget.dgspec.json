@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj": {}
+    "c:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj": {
+    "c:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj",
+        "projectUniqueName": "c:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj",
         "projectName": "GCDumpTestApp",
-        "projectPath": "C:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj",
+        "projectPath": "c:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj",
         "packagesPath": "C:\\Users\\iliamoskovenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\obj\\",
+        "outputPath": "c:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

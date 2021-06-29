@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+WXrnQJmASG4Bbi0eMvfxISV4TWJ6Lqh729tA7ksD/1G1XxFYY/MC4RFsnfFqN8wIzKZFOaaOlZ7A2GrHzJCQ==",
+  "dgSpecHash": "CwQkKzL67L3TGAfY0GCxCaAbhKQVeFWCsU0+ZEgUAsZ2xcbTHAGFEycf0BCC7L4roIflG/RcFeVQ7yh+LNreqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj",
+  "projectFilePath": "c:\\Users\\iliamoskovenko\\Desktop\\GCDumpTestApp\\GCDumpTestApp\\GCDumpTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iliamoskovenko\\.nuget\\packages\\cake.powershell\\1.0.1\\cake.powershell.1.0.1.nupkg.sha512",
     "C:\\Users\\iliamoskovenko\\.nuget\\packages\\markdig.signed\\0.18.3\\markdig.signed.0.18.3.nupkg.sha512",
